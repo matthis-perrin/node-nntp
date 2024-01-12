@@ -1,4 +1,4 @@
-declare module "nntp" {
+declare module "nntp-matthis" {
   export class NNTP {
     public constructor();
     public on(ev: "ready", cb: () => void): void;

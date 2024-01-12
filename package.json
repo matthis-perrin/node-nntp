@@ -1,7 +1,8 @@
 { "name": "nntp-matthis",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Brian White <mscdex@mscdex.net>",
   "description": "An NNTP client module for node.js",
+  "types": "./lib/nntp.d.ts",
   "main": "./lib/nntp",
   "dependencies": {
     "streamsearch": "0.1.2"
