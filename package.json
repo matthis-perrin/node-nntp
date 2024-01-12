@@ -1,5 +1,5 @@
-{ "name": "nntp",
-  "version": "https://github.com/matthis-perrin/node-nntp",
+{ "name": "nntp-matthis",
+  "version": "1.0.0",
   "author": "Brian White <mscdex@mscdex.net>",
   "description": "An NNTP client module for node.js",
   "main": "./lib/nntp",
